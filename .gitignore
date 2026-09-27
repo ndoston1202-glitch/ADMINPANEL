@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# maxfiy kalit va ma'lumotlar hech qachon repoga tushmasin
+*.key
+*.db
